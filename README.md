@@ -1,5 +1,10 @@
 # awesome-npm
 
+## Functional Programming
+
+- lodash - Utility library
+- fp-ts - Data types, type classes and abstractions such as Option, Either, IO, Task, Functor, Applicative, Monad in TypeScript.
+
 ## Logging
 
 - pino - Extremely fast logger inspired by Bunyan.
